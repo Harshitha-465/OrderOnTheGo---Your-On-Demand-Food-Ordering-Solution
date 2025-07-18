@@ -1,4 +1,4 @@
-# OrderOnTheGo---Your-On-Demand-Food-Ordering-Solution
+## OrderOnTheGo---Your-On-Demand-Food-Ordering-Solution
 
 A smart and seamless food ordering web application that enables users to discover, order, and track food from nearby restaurants.
 Designed to simplify food ordering and enhance user convenience.
